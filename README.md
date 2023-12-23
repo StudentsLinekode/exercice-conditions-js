@@ -1,1 +1,21 @@
-# exercice-conditions-js
+# Exercice Sur Les Conditions JavaScript
+
+## Exercice 1
+
+Déclarez deux variables numériques. Utilisez une instruction conditionnelle pour afficher dans la console "Plus grand" si le premier nombre est supérieur au deuxième, et "Plus petit ou égal" sinon.
+
+## Exercice 2
+
+Déclarez deux variables de chaîne de caractères représentant des prénoms. Utilisez une instruction conditionnelle pour afficher dans la console "Les prénoms sont identiques" si les prénoms sont égaux, et "Les prénoms sont différents" sinon.
+
+## Exercice 3
+
+Déclarez une variable numérique représentant un âge. Utilisez une instruction conditionnelle (if-else) pour afficher dans la console "Majeur" si l'âge est supérieur ou égal à 18, et "Mineur" sinon.
+
+## Exercice 4
+
+Déclarez deux variables numériques représentant des notes. Utilisez des conditions imbriquées pour afficher dans la console "Très bien" si la note est supérieure ou égale à 18, "Bien" si elle est entre 14 et 17, "Moyen" si elle est entre 10 et 13, et "Insuffisant" sinon.
+
+## Exercice 5
+
+Déclarez une variable numérique représentant la température en Celsius.Utilisez une série de conditions pour afficher dans la console "Très chaud" si la température est supérieure à 35, "Chaud" si elle est entre 25 et 35, "Agréable" si elle est entre 15 et 24, et "Froid" si elle est inférieure à 15.
